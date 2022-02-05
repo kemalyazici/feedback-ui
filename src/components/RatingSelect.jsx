@@ -1,5 +1,4 @@
 import {useState,useContext,useEffect} from "react";
-import feedbackContext from "../context/FeedbackContext";
 import FeedbackContext from "../context/FeedbackContext";
 function RatingSelect({select}) {
     const {feedbackEdit} = useContext(FeedbackContext)
