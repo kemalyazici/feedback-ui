@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is a simple application with no backend connection. If desired, you can add a simple backend by installing a json server.
+Feedback UI with React.
 
 
 ## Available Scripts
